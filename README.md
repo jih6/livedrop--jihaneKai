@@ -7,7 +7,7 @@ LiveDrop allows creators to run limited-inventory live product drops. Users can 
 ---
 
 ## Architecture Diagram
-(https://excalidraw.com/#json=RaFGq_kLABp74CXQD3rnm,7pGU9WEluOwt6cFUqqFDWw)
+https://excalidraw.com/#json=4SO3L-XKlB63Kij96hdcQ,1LLD1_DhA4l1Hjr9pKb4Ew
 
 ---
 
